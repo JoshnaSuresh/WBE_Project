@@ -12,7 +12,7 @@ Joshna Suresh - joshnasuresh04@csu.fullerton.edu
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/JoshnaSuresh/flask_api_project.git
+git clone https://github.com/JoshnaSuresh/WBE_Project.git
 ```
 
 2. Create a virtual environment for the project:
